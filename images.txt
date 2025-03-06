@@ -1,6 +1,25 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+#ollama/ollama:latest
+lmsysorg/sglang:latest
+#vllm/vllm-openai:latest
+#vllm/vllm-openai:v0.7.3
+#semitechnologies/weaviate:latest
+#qdrant/qdrant:latest
+#infiniflow/infinity:v0.6.0-dev3
+#mysql:8.0.39
+#quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+#docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+#valkey/valkey:8
+#infiniflow/ragflow:v0.16.0
+#infiniflow/ragflow:v0.16.0-slim
+#ubuntu:24.04
+#nvidia/cuda:12.8.0-cudnn-devel-ubuntu24.04
+#1panel/kubepi
+#lmsysorg/sglang:dev
+#ghcr.io/open-webui/open-webui:main
+#nvcr.io/nvidia/tritonserver:25.02-trtllm-python-py3
