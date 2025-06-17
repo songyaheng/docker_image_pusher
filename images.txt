@@ -7,7 +7,7 @@
 #ollama/ollama:latest
 #lmsysorg/sglang:latest
 #vllm/vllm-openai:latest
-vllm/vllm-openai:v0.8.1
+#vllm/vllm-openai:v0.8.1
 #semitechnologies/weaviate:latest
 #qdrant/qdrant:latest
 #infiniflow/infinity:v0.6.0-dev3
@@ -17,7 +17,7 @@ vllm/vllm-openai:v0.8.1
 #valkey/valkey:8
 #infiniflow/ragflow:v0.16.0
 #infiniflow/ragflow:v0.16.0-slim
-#ubuntu:24.04
+ubuntu:24.04
 #nvidia/cuda:12.8.0-cudnn-devel-ubuntu24.04
 #1panel/kubepi
 #lmsysorg/sglang:dev
