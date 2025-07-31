@@ -17,7 +17,7 @@
 #valkey/valkey:8
 #infiniflow/ragflow:v0.16.0
 #infiniflow/ragflow:v0.16.0-slim
-ubuntu:24.04
+ubuntu:latest
 #nvidia/cuda:12.8.0-cudnn-devel-ubuntu24.04
 #1panel/kubepi
 #lmsysorg/sglang:dev
